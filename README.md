@@ -1,8 +1,6 @@
 # THE TEAM PROTEUS MINECRAFT 3DS UNISTORE
 ![Minecraft 3DS UniStore](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/logo.png?raw=true)
 
-# IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE COMMUNITY UNISTORE.
-
 ## QR Code for installing on the Universal Updater
 ![Minecraft 3DS UniStore QR Code](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/proteusstoreqr.png?raw=true)
 
