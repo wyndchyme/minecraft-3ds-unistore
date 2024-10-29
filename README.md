@@ -54,28 +54,6 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
     * Blue 3dx's Modpack
 * CleetusMcfarln
     * DanTDM's Lab
-* ~~Cracko298~~
-    * ~~MC3DS-MAC~~
-    * ~~MC3DS-Options~~
-    * ~~Nuclear Creeper~~
-    * ~~Bat Bombs~~
-    * ~~Mojangles Font~~
-    * ~~Festive World Override~~
-    * ~~Amplified World Generation~~
-    * ~~Zombie Apocalypse~~
-    * ~~DevWorld v2~~
-    * ~~Rare Bones~~
-    * ~~April Fools mod~~
-    * ~~Festive as Default Textures~~
-    * ~~TNT Mimic~~
-    * ~~Farlandia world~~
-    * ~~Xray Shader, Remove Clouds, Remove Skybox, and Creative Mode Block Break~~
-    * ~~Remove Mob Cap mod~~
-    * ~~Tricky Trials OST 320kHz~~
-    * ~~Skyblock Plus world~~
-    * ~~Mob Tower structure~~
-    * ~~Enhanced Particles~~
-    * ~~Block skin~~
 * CryptedData
     * FNaF 1 map
     * FNaF 2 map
@@ -83,56 +61,26 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 * CZX
     * The Dropper: 3DS Remaster
     * GenSpace Mod
-* ~~Dale~~
-    * ~~Modernization MegaPak (a majority of content in the pack was created by various other people)~~
-* ~~DarkForPresident/Vance~~
-    * ~~Technoblade Skin~~
-    * ~~Technoblade's Crown~~
-    * ~~Skyblock map port~~
-    * ~~Breaking Bad skins~~
-    * ~~Sheeptastic mod port~~
-    * ~~Giant Baby Zombie mod~~
-    * ~~3DSpleef~~
-    * ~~Building Time map~~
-    * ~~Randoms map demo~~
-    * ~~Frequently Asked Questions~~
-    * ~~GenSpace Mod~~
-    * ~~Mega Dropper~~
-* ~~dexxioballs~~
-    * ~~New Glass textures~~
 * Duckan
     * Maryland Mixup skins
 * ENDERMANYK
     * Shaders
-* ~~GenSpace~~
-    * ~~Minecraft 3DS Modernization map~~
-    * ~~The Dropper: 3DS Remaster~~
-    * ~~GenSpace's Skyblock~~
-    * ~~SkyDen~~
 * Glonk
     * Broken Stronghold Chest Fix
 * JakerBricksYT
     * Hide and go Seek map
 * Kreideprinz
     * Kreideprinz's City World
-* ~~KrftRV249~~
-    * ~~Random Loot mod~~
-    * ~~Guns mod~~
-    * ~~Instant Eating mod~~
 * linuxwizard
     * Mipmapping patch
 * MidnightMystic
     * Castle of Shadowmere world
-* ~~oliverimcDISC~~
-    * ~~LoCity map~~
 * PanguinBoi
     * PanGames
 * PokéTube
     * PokéTube City map
 * RetroRemade
     * Better Creepers mod
-* ~~Ruff64~~
-    * ~~The Dropper: 3DS Remaster~~
 * SeveringHams
     * Painterly texture pack
 * STBUniverse
@@ -148,7 +96,6 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
     * Vanilla Remastered
     * Simple Suits skins port
     * Colt Python mod
-    * Nintendo 3DS and Wii U eShop OST (temporarily removed)
     * No Particles mod
     * Adventure Time Mash-Up port
     * Frequently Asked Questions
@@ -171,18 +118,6 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 * Virtual Overtime
     * LavaCity PVP map
     * FNAF Hide and Seek map
-* ~~WaterMelon~~~
-    * ~~The Dropper: 3DS Remaster~~
-    * ~~The Dropper Submission~~
-    * ~~Debug Mode 3D~~
-    * ~~Blind Mazes~~
-    * ~~PC Gamer Cow~~
-    * ~~GenSpace Textures~~
-* ~~Zexlo~~
-    * ~~1.20 Lava textures~~
-    * ~~1.20 Mob textures~~
-    * ~~1.20 Seamless varied textures~~
-    * ~~Barebones textures~~
 * People involved in the 3DSMP (too lazy to do each name individually)
     * DarkForPresident, czx, DeadSkulllzJr, TheRustico36, Breadbug, Nikki (Swapscribble), pipi00pipi, Shark, Abdullah39, Aether, Bruhndles, c, C4SBry, Choppy, Eevee 17, Fall, GenSpace, Grim reaper OP, HgMd, i_suck_at_sleeping, Jaxe, minimariottv, oliverimcDISC, PandJa, Proteus, Salmonchy, Silbver 35, SoulSeeker, techno?, ThE oNe, TheHauntedAttic, Tops, UnknownLoser, xSaigez
  
