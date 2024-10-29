@@ -1,6 +1,8 @@
 # THE TEAM PROTEUS MINECRAFT 3DS UNISTORE
 ![Minecraft 3DS UniStore](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/logo.png?raw=true)
 
+# IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE COMMUNITY UNISTORE.
+
 ## Please join the Discord server here: https://discord.gg/khD7nN2682
 
 NOTE: Other Ocean and Mojang are the developers of the game, so therefore THEY get to decide what is official or not since they made the game, of course. Vance does not get to decide what is official just because he made a Discord server and other stuff.
