@@ -6424,10 +6424,9 @@
                   {
                      "type": "deleteFile",
                      "file": "sdmc:/Minecraft 3DS/adventure.zip"
-                  }
+                       }
                ]
             }
          }
-      }
-   ]
-}
+      ]
+   }
