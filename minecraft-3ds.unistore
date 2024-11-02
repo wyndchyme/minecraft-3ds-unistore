@@ -3,7 +3,7 @@
       "author":"Team Proteus, wyndchyme",
       "description":"A UniStore for Minecraft: New Nintendo 3DS Edition custom content",
       "file":"minecraft-3ds.unistore",
-      "revision":207,
+      "revision":208,
       "sheet":"atlas.t3x",
       "sheetURL":"https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/atlas.t3x",
       "title":"Team Proteus Archive",
@@ -6306,7 +6306,126 @@
                   "type": "deleteFile",
                   "file": "sdmc:/Minecraft 3DS/Painterly.Pack.by.SeveringHams.zip"
                }
-            ]
+            ]     
+      },
+      {
+            "info":{
+               "title":"Adventure Time Mash-Up Pack Port",
+               "author":"susbaconhairman",
+               "version":"1",
+               "category":["textures, pack"],
+               "console":["3DS"],
+               "description":"Adventure Time Mash-Up port to Minecraft: New Nintendo 3DS Edition.",
+               "license":"All Rights Reserved",
+               "releasenotes": "This is a work in progress.",
+               "screenshots": [
+                  {
+                     "description": "Image #1",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at1.png"
+                  },
+                  {
+                     "description": "Image #2",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at2.png"
+                  },
+                  {
+                     "description": "Image #3",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at3.png"
+                  },
+                  {
+                     "description": "Image #4",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at4.png"
+                  },
+                  {
+                     "description": "Image #5",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at5.png"
+                  },
+                  {
+                     "description": "Image #6",
+                     "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at6.png"
+                  }
+               ],
+               "icon_index":44,
+               "sheet_index":0,
+               "last_updated":"2024-11-02 at 13:16 (CST)"
+            },
+            "Adventure Time Mash-Up (USA)":{
+               "size":"2.49 MB",
+               "script":[
+                  {
+                     "type": "downloadFile",
+                     "file": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1usa.zip",
+                     "output": "sdmc:/Minecraft 3DS/adventure.zip"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "00040000001B8700/romfs/atlas/",
+                     "output": "sdmc:/luma/titles/00040000001B8700/romfs/atlas/"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "00040000001B8700/romfs/resourcepacks/",
+                     "output": "sdmc:/luma/titles/00040000001B8700/romfs/resourcepacks/"
+                  },
+                  {
+                     "type": "deleteFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip"
+                  }
+               ]
+            },
+            "Adventure Time Mash-Up (EUR)":{
+               "size":"2.49 MB",
+               "script":[
+                  {
+                     "type": "downloadFile",
+                     "file": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1eur.zip",
+                     "output": "sdmc:/Minecraft 3DS/adventure.zip"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "000400000017CA00/romfs/atlas/",
+                     "output": "sdmc:/luma/titles/000400000017CA00/romfs/atlas/"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "000400000017CA00/romfs/resourcepacks/",
+                     "output": "sdmc:/luma/titles/000400000017CA00/romfs/resourcepacks/"
+                  },
+                  {
+                     "type": "deleteFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip"
+                  }
+               ]
+            },
+            "Adventure Time Mash-Up (JPN)":{
+               "size":"2.49 MB",
+               "script":[
+                  {
+                     "type": "downloadFile",
+                     "file": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1jpn.zip",
+                     "output": "sdmc:/Minecraft 3DS/adventure.zip"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "000400000017FD00/romfs/atlas/",
+                     "output": "sdmc:/luma/titles/000400000017FD00/romfs/atlas/"
+                  },
+                  {
+                     "type": "extractFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                     "input": "000400000017FD00/romfs/resourcepacks/",
+                     "output": "sdmc:/luma/titles/000400000017FD00/romfs/resourcepacks/"
+                  },
+                  {
+                     "type": "deleteFile",
+                     "file": "sdmc:/Minecraft 3DS/adventure.zip"
+                  }
+               ]
+            }
          }
       }
    ]
