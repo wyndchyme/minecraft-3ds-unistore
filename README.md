@@ -1,10 +1,13 @@
 # THE TEAM PROTEUS MINECRAFT 3DS UNISTORE
+
+### IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
+
 ![Minecraft 3DS UniStore](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/logo.png?raw=true)
 
 ## QR Code for installing on the Universal Updater
 ![Minecraft 3DS UniStore QR Code](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/proteusstoreqr.png?raw=true)
 
-To install this Unistore, open the Universal Updater, go to "Settings" (:settings:) > "Select UniStore...". Press the "Add" (:add:) button, then the "QR Code" (:qr_code:) button. Then, scan the QR Code. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
+To install this Unistore, open the Universal Updater, go to "Settings" > "Select UniStore...". Press the "Add" button, then the "QR Code" button. Then, scan the QR Code. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
 
 ## Information
 
@@ -22,7 +25,7 @@ To install this Unistore, open the Universal Updater, go to "Settings" (:setting
 Minecraft 3DS Community and Universal-Server Discord servers
 
 ### Testing
-skribbler#1095, DarkForPresident, various people from the Minecraft 3DS Community Discord server
+skribbler#1095, DarkForPresident, wyndchyme, various people from the Minecraft 3DS Community Discord server
 
 ### Editing
 https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code editor, [Ohana3DS](https://gbatemp.net/attachments/ohana3ds-zip.99223/) for texture conversion, Piskel and Pixlr for image editing, Tex3DS for spritesheet compilation, https://codepen.io/jsnelders/pen/qBByqQy for turning line breaks into "\n"'s, PineTools for their (batch) image flipper, https://www.airtightinteractive.com/demos/js/imageglitcher/ for image glitcher, and https://redketchup.io/image-compressor for image compressor.
