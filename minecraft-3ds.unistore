@@ -5,9 +5,9 @@
       "file":"minecraft-3ds.unistore",
       "revision":209,
       "sheet":"atlas.t3x",
-      "sheetURL":"https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/atlas.t3x",
+      "sheetURL":"https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/atlas.t3x",
       "title":"Team Proteus Archive",
-      "url":"https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/minecraft-3ds.unistore",
+      "url":"https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/minecraft-3ds.unistore",
       "version":4
    },
    "storeContent":[
@@ -3961,7 +3961,7 @@
                   "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at6.png"
                }
             ],
-            "icon_index":42,
+            "icon_index":44,
             "sheet_index":0,
             "last_updated":"2024-11-02 at 17:51 (CST)"
          },
