@@ -3976,13 +3976,13 @@
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "00040000001B8700/romfs/atlas",
+                  "input": "00040000001B8700/romfs/atlas/",
                   "output": "sdmc:/luma/titles/00040000001B8700/romfs/atlas/"
                },
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "00040000001B8700/romfs/resourcepacks",
+                  "input": "00040000001B8700/romfs/resourcepacks/",
                   "output": "sdmc:/luma/titles/00040000001B8700/romfs/resourcepacks/"
                },
                {
@@ -4007,13 +4007,13 @@
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "0004000E0017CA00/romfs/atlas",
+                  "input": "0004000E0017CA00/romfs/atlas/",
                   "output": "sdmc:/luma/titles/0004000E0017CA00/romfs/atlas/"
                },
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "0004000E0017CA00/romfs/resourcepacks",
+                  "input": "0004000E0017CA00/romfs/resourcepacks/",
                   "output": "sdmc:/luma/titles/0004000E0017CA00/romfs/resourcepacks/"
                },
                {
@@ -4038,13 +4038,13 @@
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "000400000017FD00/romfs/atlas",
+                  "input": "000400000017FD00/romfs/atlas/",
                   "output": "sdmc:/luma/titles/000400000017FD00/romfs/atlas/"
                },
                {
                   "type": "extractFile",
                   "file": "sdmc:/Minecraft 3DS/adventure.zip",
-                  "input": "000400000017FD00/romfs/resourcepacks",
+                  "input": "000400000017FD00/romfs/resourcepacks/",
                   "output": "sdmc:/luma/titles/000400000017FD00/romfs/resourcepacks/"
                },
                {
