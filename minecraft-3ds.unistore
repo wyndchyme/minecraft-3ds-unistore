@@ -3,7 +3,7 @@
       "author":"Team Proteus, wyndchyme",
       "description":"A UniStore for Minecraft: New Nintendo 3DS Edition custom content",
       "file":"minecraft-3ds.unistore",
-      "revision":209,
+      "revision":210,
       "sheet":"atlas.t3x",
       "sheetURL":"https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/atlas.t3x",
       "title":"Team Proteus Archive",
@@ -3938,38 +3938,56 @@
             "screenshots": [
                {
                   "description": "Image #1",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-a.png"
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at1.png"
                },
                {
                   "description": "Image #2",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-b.png"
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at2.png"
                },
                {
                   "description": "Image #3",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-c.png"
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at3.png"
+               },
+               {
+                  "description": "Image #4",
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at4.png"
+               },
+               {
+                  "description": "Image #5",
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at5.png"
+               },
+               {
+                  "description": "Image #6",
+                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/at6.png"
                }
             ],
             "icon_index":44,
             "sheet_index":0,
-            "last_updated":"2023-11-02 at 17:51 (CST)"
+            "last_updated":"2024-11-02 at 17:51 (CST)"
          },
-         "Better Clouds (USA)":{
-            "size":"21 KB",
+         "Adventure Time Mash-Up Pack (USA)":{
+            "size":"2.6 MB",
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/better-clouds.7z",
-                  "output": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1usa",
+                  "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type": "extractFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z",
-                  "input": "Minecraft 3DS Better Clouds (Vanilla)/00040000001B8700/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst",
-                  "output": "sdmc:/luma/titles/00040000001B8700/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "00040000001B8700/romfs/atlas",
+                  "output": "sdmc:/luma/titles/00040000001B8700/romfs/atlas/"
+               },
+               {
+                  "type": "extractFile",
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "00040000001B8700/romfs/resourcepacks",
+                  "output": "sdmc:/luma/titles/00040000001B8700/romfs/resourcepacks/"
                },
                {
                   "type": "deleteFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type":"promptMessage",
@@ -3978,23 +3996,29 @@
                }
             ]
          },
-         "Better Clouds (EUR)":{
-            "size":"21 KB",
+         "Adventure Time Mash-Up Pack (EUR)":{
+            "size":"2.6 MB",
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/better-clouds.7z",
-                  "output": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1eur",
+                  "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type": "extractFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z",
-                  "input": "Minecraft 3DS Better Clouds (Vanilla)/000400000017CA00/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst",
-                  "output": "sdmc:/luma/titles/000400000017CA00/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "0004000E0017CA00/romfs/atlas",
+                  "output": "sdmc:/luma/titles/0004000E0017CA00/romfs/atlas/"
+               },
+               {
+                  "type": "extractFile",
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "0004000E0017CA00/romfs/resourcepacks",
+                  "output": "sdmc:/luma/titles/0004000E0017CA00/romfs/resourcepacks/"
                },
                {
                   "type": "deleteFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type":"promptMessage",
@@ -4003,23 +4027,29 @@
                }
             ]
          },
-         "Better Clouds (JPN)":{
-            "size":"21 KB",
+         "Adventure Time Mash-Up Pack (JPN)":{
+            "size":"2.6 MB",
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/better-clouds.7z",
-                  "output": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1jpn",
+                  "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type": "extractFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z",
-                  "input": "Minecraft 3DS Better Clouds (Vanilla)/000400000017FD00/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst",
-                  "output": "sdmc:/luma/titles/000400000017FD00/romfs/resourcepacks/vanilla/client/textures/environment/clouds.3dst"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "000400000017FD00/romfs/atlas",
+                  "output": "sdmc:/luma/titles/000400000017FD00/romfs/atlas/"
+               },
+               {
+                  "type": "extractFile",
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip",
+                  "input": "000400000017FD00/romfs/resourcepacks",
+                  "output": "sdmc:/luma/titles/000400000017FD00/romfs/resourcepacks/"
                },
                {
                   "type": "deleteFile",
-                  "file": "sdmc:/Minecraft 3DS/better-clouds.7z"
+                  "file": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
                   "type":"promptMessage",
