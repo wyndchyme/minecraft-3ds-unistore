@@ -3932,26 +3932,38 @@
             "console":[
                "3DS"
             ],
-            "description":"Port of Niebieski250's Better Clouds textures.",
+            "description":"A port of the Adventure Time Mash-Up pack.",
             "license":"none",
-            "releasenotes":"Minecraft - New Nintendo 3DS Edition (v1.9.19)\nBetter Clouds (for Bedrock Edition)\n\nCreates more realistic clouds with color depth and better shape\nvariations for all texture packs.\n_______________________________________________________________\n\nOriginal textures by:\nNiebieski250\nhttps://www.planetminecraft.com/texture-pack/\nbetter-clouds-for-bedrock-edition/\n\nPorted by:\nThorMode9\n_______________________________________________________________\n\nContents:\nBetter Clouds (for Bedrock Edition)\n32x Minecraft 1.16.5 Realistic Clouds Texture Pack\n_______________________________________________________________\n\nInstructions:\nPlace the appropriate contents provided based on your region\ninto the 'titles' folder on your New Nintendo 3DS/2DS micro SD\ncard as shown below:\n\nSD:/luma/titles/00040000001B8700 (USA)\nSD:/luma/titles/000400000017CA00 (Europe)\nSD:/luma/titles/000400000017FD00 (Japan)\n\nInsert the micro SD into your New Nintendo 3DS/2DS.\n\nTo enable game patching, power the system on while holding\n'Select' to access the Luma3DS configuration menu. Highlight\n'Enable Game Patching' and press 'A' to enable. Press 'Start'\nto save the configuration settings.\n\nOpen Minecraft - New Nintendo 3DS Edition to access the updated\ncontent.",
+            "releasenotes":"This is a work in progress.",
             "screenshots": [
                {
                   "description": "Image #1",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-a.png"
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at1.png"
                },
                {
                   "description": "Image #2",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-b.png"
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at2.png"
                },
                {
                   "description": "Image #3",
-                  "url": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/screenshots/better-clouds-c.png"
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at3.png"
+               },
+               {
+                  "description": "Image #4",
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at4.png"
+               },
+               {
+                  "description": "Image #5",
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at5.png"
+               },
+               {
+                  "description": "Image #6",
+                  "url": "https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/res/screenshots/at6.png"
                }
             ],
-            "icon_index":46,
+            "icon_index":44,
             "sheet_index":0,
-            "last_updated":"2023-11-02 at 17:51 (CST)"
+            "last_updated":"2024-11-02 at 17:51 (CST)"
          },
          "Better Clouds (USA)":{
             "size":"21 KB",
