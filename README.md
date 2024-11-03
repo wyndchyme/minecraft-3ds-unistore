@@ -1,27 +1,40 @@
-# TEAM PROTEUS MINECRAFT 3DS UNISTORE ARCHIVE
+![tp](https://github.com/user-attachments/assets/94f83fc8-5345-4d57-b69a-c0faf5abcf63)
 
-### IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
+<div align="center">
 
-![Minecraft 3DS UniStore](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/logo.png?raw=true)
+__IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)__
 
-## QR Code for installing on the Universal Updater
-![Minecraft 3DS UniStore QR Code](https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/proteusstoreqr.png?raw=true)
+<br>
 
-To install this Unistore, open the Universal Updater, go to "Settings" > "Select UniStore...". Press the "Add" button, then the "QR Code" button. Then, scan the QR Code. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
+<img src="https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/proteusstoreqr.png?raw=true" alt="drawing" width="275"/>
+
+</div>
+
+<br>
 
 ## Information
 
-**If you have any other, older Minecraft 3DS UniStores on your console, made by susbaconhairman, then delete them because they no longer work/are outdated.**
+To install this Unistore, open Universal-Updater, go to __"Settings" > "Select UniStore...".__ Press the __"Add"__ button, then the __"QR Code"__ button. Then, scan the QR Code above. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
 
-**If you want to know how to use this store, read the manual here: https://github.com/team-proteus/minecraft-3ds-unistore/blob/main/manual.md**
+__If you have any other, older Minecraft 3DS UniStores on your console, made by susbaconhairman, then delete them because they no longer work/are outdated.__
 
-**If you wish to add content to the Store, then please fill out an issue: https://github.com/team-proteus/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-addition.md&title=**
+__If you want to know how to use this store, read the manual [here.](https://github.com/wyndchyme/minecraft-3ds-unistore/blob/main/manual.md)__
 
-**If you wish to have something removed from the Store, then please fill out this issue: https://github.com/team-proteus/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-removal.md&title=**
+__If you wish to add content to the Store, then please fill out [this issue template.](https://github.com/wyndchyme/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-addition.md&title=)__
+
+__If you wish to have something removed from the Store, then please fill out [this issue template.](https://github.com/wyndchyme/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-removal.md&title=)__
+
+<br>
 
 ## Credits
 
-### Support
+<details>
+
+<br>
+
+<summary>Click to show/hide credits</summary>
+
+   ### Support
 Minecraft 3DS Community and Universal-Server Discord servers
 
 ### Testing
@@ -149,3 +162,5 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
     * Illuminated Cave
 
 **ALL CONTENT HAS THE APPROVAL OF THEIR RESPECIVE CREATORS/SUBMITTERS TO BE IN THIS STORE**
+
+</details>
