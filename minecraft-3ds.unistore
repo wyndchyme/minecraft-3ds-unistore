@@ -3970,7 +3970,7 @@
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1usa",
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1usa.zip",
                   "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
@@ -4001,7 +4001,7 @@
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1eur",
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1eur.zip",
                   "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
@@ -4032,7 +4032,7 @@
             "script":[
                {
                   "type": "downloadFile",
-                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1jpn",
+                  "file": "https://github.com/team-proteus-mc/minecraft-3ds-unistore/raw/main/res/textures/skribblerat1jpn.zip",
                   "output": "sdmc:/Minecraft 3DS/adventure.zip"
                },
                {
