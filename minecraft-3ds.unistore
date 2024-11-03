@@ -3,7 +3,7 @@
       "author":"Team Proteus, wyndchyme",
       "description":"A UniStore for Minecraft: New Nintendo 3DS Edition custom content",
       "file":"minecraft-3ds.unistore",
-      "revision":211,
+      "revision":212,
       "sheet":"atlas.t3x",
       "sheetURL":"https://github.com/wyndchyme/minecraft-3ds-unistore/raw/main/atlas.t3x",
       "title":"Team Proteus Archive",
