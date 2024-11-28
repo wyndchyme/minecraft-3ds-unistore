@@ -37,15 +37,29 @@ __If you wish to have something removed from the Store, then please fill out [th
 <summary>Click to show/hide credits</summary>
 
    ### Support
-Minecraft 3DS Community and Universal-Server Discord servers
+- Minecraft 3DS Community Discord Server
+- Universal-Server Discord Server
 
 ### Testing
-skribbler#1095, DarkForPresident, wyndchyme, various people from the Minecraft 3DS Community Discord server
+- [susbaconhairman](https://github.com/susbaconhairman)
+- [wyndchyme](https://github.com/wyndchyme)
+- [DarkForPresident](https://github.com/DarkForPresident)
+- [SeveringHams](https://github.com/SeveringHams)
+- Various others from the Minecraft 3DS Community Discord server
 
 ### Editing
-https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code editor, [Ohana3DS](https://gbatemp.net/attachments/ohana3ds-zip.99223/) for texture conversion, Piskel and Pixlr for image editing, Tex3DS for spritesheet compilation, https://codepen.io/jsnelders/pen/qBByqQy for turning line breaks into "\n"'s, PineTools for their (batch) image flipper, https://www.airtightinteractive.com/demos/js/imageglitcher/ for image glitcher, and https://redketchup.io/image-compressor for image compressor.
+- [JSON verification](https://jsonformatter.curiousconcept.com/)
+- [GitHub code editor](https://github.dev/github/dev)
+- [Ohana3DS](https://gbatemp.net/attachments/ohana3ds-zip.99223/)
+- [Piskel](https://www.piskelapp.com/)
+- [Pixlr](https://pixlr.com/)
+- [Tex3DS](https://github.com/devkitPro/tex3ds)
+- [Replace line breaks into \n](https://codepen.io/jsnelders/pen/qBByqQy)
+- [PineTools Bulk Flip Image](https://pinetools.com/)
+- [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/)
+- [Image Compressor](https://redketchup.io/image-compressor)
 
-## Item creators
+## UniStore Contents
 * ちげえのたす (kakuremino)
     * Experience Minecraft world
     * Debug Mode 3D world
@@ -125,7 +139,7 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 * Virtual Overtime
     * LavaCity PVP map
     * FNAF Hide and Seek map
-* People involved in the 3DSMP (too lazy to do each name individually)
+* People involved in the 3DSMP
     * DarkForPresident, czx, DeadSkulllzJr, TheRustico36, Breadbug, Nikki (Swapscribble), pipi00pipi, Shark, Abdullah39, Aether, Bruhndles, c, C4SBry, Choppy, Eevee 17, Fall, GenSpace, Grim reaper OP, HgMd, i_suck_at_sleeping, Jaxe, minimariottv, oliverimcDISC, PandJa, Proteus, Salmonchy, Silbver 35, SoulSeeker, techno?, ThE oNe, TheHauntedAttic, Tops, UnknownLoser, xSaigez
  
 ### Seed submitters
@@ -163,7 +177,7 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 * susbaconhairman
     * Illuminated Cave
 
-**ALL CONTENT HAS THE APPROVAL OF THEIR RESPECIVE CREATORS/SUBMITTERS TO BE IN THIS STORE**
+**ALL CONTENT HAS THE APPROVAL OF THEIR RESPECTIVE CREATORS/SUBMITTERS TO BE IN THIS STORE**
 
 </details>
 
