@@ -169,7 +169,7 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 
 # Legal
 
-This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this pack or modified versions of this pack without explicit permission.
+This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this project or modified versions of this project without explicit permission.
 
 Team Proteus UniStore Archive (minecraft-3ds-unistore) © 2023-2024 Team Proteus and wyndchyme
 
