@@ -22,9 +22,7 @@ __If you have any other, older Minecraft 3DS UniStores on your console, made by 
 
 __If you want to know how to use this store, read the manual [here.](https://github.com/wyndchyme/minecraft-3ds-unistore/blob/main/manual.md)__
 
-__If you wish to add content to the Store, then please fill out [this issue template.](https://github.com/wyndchyme/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-addition.md&title=)__
-
-__If you wish to have something removed from the Store, then please fill out [this issue template.](https://github.com/wyndchyme/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-removal.md&title=)__
+__If you wish to have something removed from this UniStore, then please fill out [this issue template.](https://github.com/wyndchyme/minecraft-3ds-unistore/issues/new?assignees=&labels=&projects=&template=content-removal.md&title=)__
 
 <br>
 
@@ -59,7 +57,16 @@ __If you wish to have something removed from the Store, then please fill out [th
 - [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/)
 - [Image Compressor](https://redketchup.io/image-compressor)
 
+<br>
+
 ## UniStore Contents
+
+<details>
+
+<br>
+
+<summary>Click to show/hide contents</summary>
+
 * ちげえのたす (kakuremino)
     * Experience Minecraft world
     * Debug Mode 3D world
@@ -176,6 +183,8 @@ __If you wish to have something removed from the Store, then please fill out [th
     * Hatred and Sorrow
 * susbaconhairman
     * Illuminated Cave
+   
+</details>
 
 **ALL CONTENT HAS THE APPROVAL OF THEIR RESPECTIVE CREATORS/SUBMITTERS TO BE IN THIS STORE**
 
