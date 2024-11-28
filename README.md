@@ -4,6 +4,8 @@
 
 __IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)__
 
+__SUBMISSIONS ARE CLOSED__
+
 <br>
 
 <img src="https://github.com/mc-3ds-team/minecraft-3ds-unistore/blob/main/img/proteusstoreqr.png?raw=true" alt="drawing" width="275"/>
