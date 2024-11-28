@@ -16,7 +16,7 @@ __SUBMISSIONS ARE CLOSED__
 
 # Information
 
-To install this Unistore, open Universal-Updater, go to __"Settings" > "Select UniStore...".__ Press the __"Add"__ button, then the __"QR Code"__ button. Then, scan the QR Code above. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
+To install this UniStore, open Universal-Updater, go to __"Settings" > "Select UniStore...".__ Press the __"Add"__ button, then the __"QR Code"__ button. Then, scan the QR Code above. It will download and install the UniStore. Open it by selecting ```minecraft-3ds.unistore``` in the list of UniStores.
 
 __If you have any other, older Minecraft 3DS UniStores on your console, made by susbaconhairman, then delete them because they no longer work/are outdated.__
 
@@ -34,7 +34,7 @@ __If you wish to have something removed from this UniStore, then please fill out
 
 <summary>Click to show/hide credits</summary>
 
-### SupPort
+### Support
 - [Minecraft 3DS Community](https://discord.com/invite/xSrN6k965F)
 - [Universal-Server](https://discord.com/invite/KDJCfGF)
 
