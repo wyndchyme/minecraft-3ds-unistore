@@ -34,7 +34,7 @@ __If you wish to have something removed from this UniStore, then please fill out
 
 <summary>Click to show/hide credits</summary>
 
-### Support
+### SupPort
 - [Minecraft 3DS Community](https://discord.com/invite/xSrN6k965F)
 - [Universal-Server](https://discord.com/invite/KDJCfGF)
 
@@ -68,84 +68,84 @@ __If you wish to have something removed from this UniStore, then please fill out
 <summary>Click to show/hide contents</summary>
 
 * ちげえのたす (kakuremino)
-    * Experience Minecraft world
-    * Debug Mode 3D world
-    * Super Mario Bros. 1-1 world
+    * Experience Minecraft World
+    * Debug Mode 3D World
+    * Super Mario Bros. 1-1 World
 * ArcModzzz
     * World in Jar 3DS
     * Find the Button
 * Babylion122
     * Ender Dragon Elytra
-    * Lapiz's Funland map
-    * Stampy's Lovely World map port
+    * Lapiz's Funland Map
+    * Stampy's Lovely World Map Port
 * Blue 3dx
     * Blue 3dx's Modpack
 * CleetusMcfarln
     * DanTDM's Lab
 * CryptedData
-    * FNaF 1 map
-    * FNaF 2 map
-    * Halloween map
+    * FNaF 1 Map
+    * FNaF 2 Map
+    * Halloween Map
 * CZX
     * The Dropper: 3DS Remaster
     * GenSpace Mod
 * Duckan
-    * Maryland Mixup skins
+    * Maryland Mixup Skins
 * ENDERMANYK
     * Shaders
 * Glonk
     * Broken Stronghold Chest Fix
 * JakerBricksYT
-    * Hide and go Seek map
+    * Hide and go Seek Map
 * Kreideprinz
     * Kreideprinz's City World
 * linuxwizard
-    * Mipmapping patch
+    * Mipmapping Patch (1.0 ONLY)
 * MidnightMystic
-    * Castle of Shadowmere world
+    * Castle of Shadowmere World
 * PanguinBoi
     * PanGames
 * PokéTube
-    * PokéTube City map
+    * PokéTube City Map
 * RetroRemade
     * Better Creepers mod
 * SeveringHams
-    * Painterly texture pack
+    * Painterly Texture Pack
 * STBUniverse
     * STB-MC3DS Unistore
-    * Vanilla 1.20 textures port
+    * Vanilla 1.20 Textures Port
 * susbaconhairman
-    * kharrii2 texture pack port
-    * New Default Skins port
-    * 2B2T Legends skin pack
-    * Murder Drones skin pack port
-    * LEGO Minecraft Dragon Slayer skin port
+    * kharrii2 Texture Pack Port
+    * New Default Skins Port
+    * 2B2T Legends Skin Pack
+    * Murder Drones Skin Pack Port
+    * LEGO Minecraft Dragon Slayer Skin Port
     * Customization remover
     * Vanilla Remastered
-    * Simple Suits skins port
+    * Simple Suits Skins Port
     * Colt Python mod
     * No Particles mod
-    * Adventure Time Mash-Up port
+    * Adventure Time Mash-Up Port
     * Frequently Asked Questions
 * Toaster
     * SD Card Dropper Map
 * TheRustico36
     * Cleann'slick GUI
-    * New Base Skins port
-    * Legacy Console Default skin pack port
+    * New Base Skins Port
+    * Legacy Console Default Skin Pack Port
 * ThorMode9
-    * Wewelsburg map
+    * Wewelsburg Map
     * Realistic 200% Larger Sun + Moon Collection
     * Superflat Survival
-    * Better Clouds port
-    * Norse Mythology Mash-Up port
+    * Better Clouds Port
+    * Norse Mythology Mash-Up Port
 * UnknownLoser
     * DualFlow
 * Vicrtl345
-    * SkyDen map port
+    * SkyDen Map Port
 * Virtual Overtime
-    * LavaCity PVP map
-    * FNAF Hide and Seek map
+    * LavaCity PVP Map
+    * FNAF Hide and Seek Map
 * People involved in the 3DSMP
     * DarkForPresident, czx, DeadSkulllzJr, TheRustico36, Breadbug, Nikki (Swapscribble), pipi00pipi, Shark, Abdullah39, Aether, Bruhndles, c, C4SBry, Choppy, Eevee 17, Fall, GenSpace, Grim reaper OP, HgMd, i_suck_at_sleeping, Jaxe, minimariottv, oliverimcDISC, PandJa, Proteus, Salmonchy, Silbver 35, SoulSeeker, techno?, ThE oNe, TheHauntedAttic, Tops, UnknownLoser, xSaigez
  
