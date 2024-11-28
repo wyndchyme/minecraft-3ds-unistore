@@ -36,9 +36,9 @@ __If you wish to have something removed from the Store, then please fill out [th
 
 <summary>Click to show/hide credits</summary>
 
-   ### Support
-- Minecraft 3DS Community Discord Server
-- Universal-Server Discord Server
+### Support
+- [Minecraft 3DS Community](https://discord.com/invite/xSrN6k965F)
+- [Universal-Server](https://discord.com/invite/KDJCfGF)
 
 ### Testing
 - [susbaconhairman](https://github.com/susbaconhairman)
