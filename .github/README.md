@@ -14,7 +14,7 @@ __SUBMISSIONS ARE CLOSED__
 
 <br>
 
-## Information
+# Information
 
 To install this Unistore, open Universal-Updater, go to __"Settings" > "Select UniStore...".__ Press the __"Add"__ button, then the __"QR Code"__ button. Then, scan the QR Code above. It will download and install the Unistore. Open it by selecting ```minecraft-3ds.unistore``` in the list of Unistores.
 
@@ -28,7 +28,7 @@ __If you wish to have something removed from the Store, then please fill out [th
 
 <br>
 
-## Credits
+# Credits
 
 <details>
 
@@ -166,6 +166,8 @@ https://jsonformatter.curiousconcept.com/ for JSON verification, GitHub code edi
 **ALL CONTENT HAS THE APPROVAL OF THEIR RESPECIVE CREATORS/SUBMITTERS TO BE IN THIS STORE**
 
 </details>
+
+<br>
 
 # Legal
 
