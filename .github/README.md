@@ -2,7 +2,7 @@
 
 <div align="center">
 
-__IMPORTANT: THIS UNISTORE IS IN THE PROCESS OF MERGING WITH THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)__
+__IMPORTANT: THIS UNISTORE IS DEPRECATED. PLEASE REFER TO THE [COMMUNITY UNISTORE](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)__
 
 __SUBMISSIONS ARE CLOSED__
 
