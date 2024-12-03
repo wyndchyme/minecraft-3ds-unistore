@@ -16,6 +16,8 @@ __SUBMISSIONS ARE CLOSED__
 
 # Information
 
+This is an archive of the Team Proteus UniStore. The new, currently maintained Minecraft 3DS Community UniStore can be found [here.](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
+
 To install this UniStore, open Universal-Updater, go to __"Settings" > "Select UniStore...".__ Press the __"Add"__ button, then the __"QR Code"__ button. Then, scan the QR Code above. It will download and install the UniStore. Open it by selecting ```minecraft-3ds.unistore``` in the list of UniStores.
 
 __If you have any other, older Minecraft 3DS UniStores on your console, made by susbaconhairman, then delete them because they no longer work/are outdated.__
