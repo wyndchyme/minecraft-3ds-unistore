@@ -52,7 +52,7 @@ __If you wish to have something removed from this UniStore, then please fill out
 - [Piskel](https://www.piskelapp.com/)
 - [Pixlr](https://pixlr.com/)
 - [Tex3DS](https://github.com/devkitPro/tex3ds)
-- [Replace line breaks into \n](https://codepen.io/jsnelders/pen/qBByqQy)
+- [Replace line breaks with \n](https://codepen.io/jsnelders/pen/qBByqQy)
 - [PineTools Bulk Flip Image](https://pinetools.com/)
 - [Image Glitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/)
 - [Image Compressor](https://redketchup.io/image-compressor)
