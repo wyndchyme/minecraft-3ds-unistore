@@ -196,6 +196,6 @@ __If you wish to have something removed from this UniStore, then please fill out
 
 This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this project or modified versions of this project without explicit permission.
 
-Team Proteus UniStore Archive (minecraft-3ds-unistore) © 2023-2024 Team Proteus and wyndchyme
+Team Proteus UniStore Archive (minecraft-3ds-unistore) © 2023-2025 Team Proteus and wyndchyme
 
 All Rights Reserved.
